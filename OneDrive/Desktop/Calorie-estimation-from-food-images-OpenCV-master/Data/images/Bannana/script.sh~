@@ -1,0 +1,10 @@
+#!/bin/bash
+num=1
+label="2_"
+for file in *.JPG; do
+       #str=$(printf "%d" $x) 
+       mv "$file" "$(printf "%s" $label$num).jpg"
+       num=`expr $num + 1`
+       echo $num
+done
+
