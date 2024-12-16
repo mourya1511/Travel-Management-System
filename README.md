@@ -80,12 +80,7 @@ Contributions are welcome! Follow these steps to contribute:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-For any inquiries, please contact:
-- **Name**: Your Name
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
 
 ---
 
-Feel free to customize this template to suit your project's specifics.
+
